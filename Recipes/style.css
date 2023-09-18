@@ -1,0 +1,15 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    color: white;
+    background-color: rgb(0,100,0);
+    padding: 40px 0px 40px 20px;
+}
+
+body{
+    background-color: rgb(253, 255, 125);
+    padding-left: 10px;
+}
